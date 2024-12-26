@@ -1,1 +1,5 @@
 ./thesis/thesis.md
+./thesis/resumen.md
+./thesis/indice.md
+./thesis/referencias.md
+./thesis/anexos.md
