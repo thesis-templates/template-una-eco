@@ -1,9 +1,9 @@
 {
-  "annus": 2024,
-  "patria": "pry",
-  "lingua": "spa",
-  "universitas": "www.una.py",
-  "facultas": "eco.una.py",
-  "repositorium": "bc-una.info",
-  "descriptio": "Facultad de Ciencias Económicas / Universidad Nacional de Asunción / Paraguay"
+  "year": 2024,
+  "description": "Informatiō thesis",
+  "iso_country": "pry",
+  "iso_language": "spa",
+  "url_university": "https://www.una.py/",
+  "url_school": "https://www.eco.una.py/",
+  "url_repository": "https://www.una.py/"
 }
